@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cấu hình tài khoản nhạy cảm (CHỐNG LỘ MẬT KHẨU GMAIL)
+accounts.json
+**/accounts.json
+*.env
+.env
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
