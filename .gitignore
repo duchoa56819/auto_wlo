@@ -3,9 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Cấu hình tài khoản nhạy cảm (CHỐNG LỘ MẬT KHẨU GMAIL)
+# Cấu hình tài khoản nhạy cảm (CHỐNG LỘ MẬT KHẨU GMAIL & GAME)
 accounts.json
 **/accounts.json
+login_config.ini
+**/login_config.ini
 *.env
 .env
 
