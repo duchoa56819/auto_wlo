@@ -1,0 +1,2188 @@
+[
+  {
+    "stage": 1,
+    "action_count": 5,
+    "start_time": "13:37:17.467",
+    "end_time": "13:37:33.676",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04020101a33a83d500"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03020101d861e07400"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 2 R3",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "393b",
+          "skill_name": "Wi01 Pet Skill",
+          "raw_hex": "04040203393bc23c00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 1 R2",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "2b2b",
+          "skill_name": "Wi01 Char Skill (Phong)",
+          "raw_hex": "030401022b2b402300"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 2 R3",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04030203a33acc3000"
+        }
+      ]
+    }
+  },
+  {
+    "stage": 2,
+    "action_count": 8,
+    "start_time": "13:39:35.647",
+    "end_time": "13:39:35.926",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475eac64e00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea6a8700"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea155b00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea767300"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375eac35300"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea5a7f00"
+        }
+      ],
+      "F04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R2",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020102043b885d00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R2",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201021f3b7e9100"
+        }
+      ]
+    }
+  },
+  {
+    "stage": 3,
+    "action_count": 8,
+    "start_time": "13:39:53.438",
+    "end_time": "13:39:53.655",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475eaae7600"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea453800"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eae4bd00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea806700"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375ea978200"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea77a200"
+        }
+      ],
+      "F04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R2",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020102043b6bdb00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R2",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201021f3b1f9700"
+        }
+      ]
+    }
+  },
+  {
+    "stage": 4,
+    "action_count": 8,
+    "start_time": "13:40:10.927",
+    "end_time": "13:40:11.094",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea5cd100"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475eabf1c00"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375eab28b00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ead25300"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eaca1400"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175eab71600"
+        }
+      ],
+      "F04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R2",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020102043bb49200"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R2",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201021f3b7c6d00"
+        }
+      ]
+    }
+  },
+  {
+    "stage": 5,
+    "action_count": 8,
+    "start_time": "13:40:29.917",
+    "end_time": "13:40:30.136",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea942000"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea1fe600"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eae50a00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea6a6e00"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375eacb2200"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea60ef00"
+        }
+      ],
+      "F04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R2",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020102043be58b00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R2",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201021f3b537400"
+        }
+      ]
+    }
+  },
+  {
+    "stage": 6,
+    "action_count": 24,
+    "start_time": "13:40:48.607",
+    "end_time": "13:41:06.256",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea08cd00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea1d6600"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea0e4600"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea213b00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea8ec800"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea670600"
+        }
+      ],
+      "F04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R2",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020102043b899a00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R2",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201021f3b40ed00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 2 R4",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020204043b358d00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 2 R4",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030202041f3b0e6a00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 2 R4",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020204043b8bf000"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 2 R4",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030202041f3b85a200"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eaf04500"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea74c800"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eae8a700"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea30ca00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eaad0500"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea4aad00"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375ea173700"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea4daf00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375eab01400"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea175300"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375ea909d00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea977e00"
+        }
+      ]
+    }
+  },
+  {
+    "stage": 7,
+    "action_count": 16,
+    "start_time": "13:41:20.288",
+    "end_time": "13:41:32.875",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea6fca00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea1e8b00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea63db00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475eab91000"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375eaba7800"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea9a0100"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375ea734a00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea152e00"
+        }
+      ],
+      "F04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043b77a000"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3b9bac00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 2 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020201043b08f500"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 2 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030202011f3bae9100"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea6cbf00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175eadb7000"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea8dcc00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea078100"
+        }
+      ]
+    }
+  },
+  {
+    "stage": 8,
+    "action_count": 16,
+    "start_time": "13:41:53.048",
+    "end_time": "13:42:01.135",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475eaad5d00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475eadb4400"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475eab93e00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea51af00"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea98cb00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ead08a00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eacb3d00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea877a00"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375ea8b5200"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea420900"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375eab0d100"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375eacc2b00"
+        }
+      ],
+      "F04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043bb2c800"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3ba7a800"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043b988100"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3b3bc300"
+        }
+      ]
+    }
+  },
+  {
+    "stage": 9,
+    "action_count": 24,
+    "start_time": "13:42:18.997",
+    "end_time": "13:42:34.907",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea0b6b00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ead62500"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea01df00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea465400"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea7e0d00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea654f00"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea393f00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea429200"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eafbd300"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175eae68a00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea52bc00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175eaad7200"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375eae7c900"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea87a100"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375ea0f9500"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea9d6700"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375ea804b00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea8e6a00"
+        }
+      ],
+      "F04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043b97b000"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3b6d5800"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 2 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020201043b63b700"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 2 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030202011f3b526d00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 2 R3",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020203043b653200"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 2 R3",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030202031f3b74aa00"
+        }
+      ]
+    }
+  },
+  {
+    "stage": 10,
+    "action_count": 24,
+    "start_time": "13:42:51.248",
+    "end_time": "13:43:07.255",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea6ca000"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea4b9c00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475eaab3400"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea13d500"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea981000"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea8aed00"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea2ea800"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea697500"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea6cfc00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175eac56d00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eab1da00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea152000"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375ea348a00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea824500"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375ea4a6600"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375eabee700"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375ea8dbb00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea9ee000"
+        }
+      ],
+      "F04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043bbbed00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3bb1f800"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043b0eea00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3b4af000"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R3",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020103043b381e00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R3",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201031f3ba6f600"
+        }
+      ]
+    }
+  },
+  {
+    "stage": 11,
+    "action_count": 31,
+    "start_time": "13:43:25.207",
+    "end_time": "13:44:12.715",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea5ca700"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea7b2600"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "373b",
+          "skill_name": "W04 Chiêu thức đặc biệt",
+          "raw_hex": "04040101373b897400"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea1cc900"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0404040475ea365f00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475ea2ac600"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 1 R3",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "373b",
+          "skill_name": "W04 Chiêu thức đặc biệt",
+          "raw_hex": "04040103373b910800"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 3 R4",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0304030475eab6bb00"
+        }
+      ],
+      "F04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043b49b800"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3b9bfe00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043bb71d00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3ba72300"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R3",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020103043bafff00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R3",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201031f3b671a00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R3",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020103043b687f00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R3",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201031f3b6b8900"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eac72e00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175eabb0600"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea81a200"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea663600"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eadf2100"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea7a6700"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea1d2d00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175eaa3cb00"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375ea202c00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea1c3100"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R4",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "2d2b",
+          "skill_name": "W03 Buff/Hỗ trợ",
+          "raw_hex": "040304042d2b822b00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375ea0d9b00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 4 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0403040375ead81f00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0303030375eaf0f100"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 3 R3",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "2d2b",
+          "skill_name": "W03 Buff/Hỗ trợ",
+          "raw_hex": "040303032d2b098700"
+        }
+      ]
+    }
+  },
+  {
+    "stage": 12,
+    "action_count": 24,
+    "start_time": "13:45:27.908",
+    "end_time": "13:46:11.485",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04040101a33a0a5d00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03040101d861afea00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04040101a33a10af00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03040101d861444a00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04040101a33a03b500"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03040101d861a95d00"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eac01b00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175eaa1f000"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eaa58600"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea181800"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea83aa00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea2be100"
+        }
+      ],
+      "F04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043b769a00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3b9d3e00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043b97a300"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3ba50f00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043b081e00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3b4e5900"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04030101a33a470900"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03030101d861051700"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04030101a33a09f400"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03030101d8615c0200"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04030101a33a891500"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03030101d861ac7800"
+        }
+      ]
+    }
+  },
+  {
+    "stage": 13,
+    "action_count": 24,
+    "start_time": "13:46:36.698",
+    "end_time": "13:47:24.586",
+    "actions_by_char": {
+      "W04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04040101a33aba8f00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03040101d86140a700"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04040101a33a410000"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03040101d8614d9900"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04040101a33abd4400"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R4",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03040101d861a82a00"
+        }
+      ],
+      "F04": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043b4e0f00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3b478500"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043b54b900"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3bdd9c00"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "043b",
+          "skill_name": "F04 Pet Skill (Sát thương)",
+          "raw_hex": "04020101043b96cc00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R2",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "1f3b",
+          "skill_name": "F04 Char Skill (Sát thương Hỏa)",
+          "raw_hex": "030201011f3ba84a00"
+        }
+      ],
+      "Wi01": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea0bbf00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ead6a900"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175eacada00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ead0a400"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R1",
+          "target_pos": "Slot 4 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0401040175ea7f4c00"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R1",
+          "target_pos": "Slot 3 R1",
+          "action_type": "Phòng thủ",
+          "skill_code": "75ea",
+          "skill_name": "Phòng thủ (Defend)",
+          "raw_hex": "0301030175ea3bd000"
+        }
+      ],
+      "W03": [
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04030101a33a9f1600"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03030101d861bd3700"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04030101a33a1e9800"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03030101d861bdd900"
+        },
+        {
+          "actor_role": "Pet",
+          "actor_pos": "Slot 4 R3",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "a33a",
+          "skill_name": "W04/W03 Pet Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "04030101a33ae7d700"
+        },
+        {
+          "actor_role": "Char",
+          "actor_pos": "Slot 3 R3",
+          "target_pos": "Slot 1 R1",
+          "action_type": "Tấn công / Ra chiêu",
+          "skill_code": "d861",
+          "skill_name": "W04/W03 Char Skill (Sát thương Thủy/Địa)",
+          "raw_hex": "03030101d86177e800"
+        }
+      ]
+    }
+  }
+]

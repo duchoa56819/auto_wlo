@@ -1,0 +1,132 @@
+=== BẮT ĐẦU BẮT GÓI TIN ALOGIN-W04 (PID: 11868) LÚC 2026-09-18 10:05:16.683230 ===
+
+[10:11:37.717] [+ 381.03s] [#1   ] C->S Op:0x06 (MOVEMENT_OR_COMBAT) Sub:0x01 Len:7   | Hex: 022e01c70198cb
+       └── [BƯỚC ĐI BỘ] Tọa độ (X=302, Y=455) | Mode: 0x02 | Checksum: 98cb
+[10:11:37.718] [+ 381.04s] [#2   ] C->S Op:0x06 (MOVEMENT_OR_COMBAT) Sub:0x01 Len:7   | Hex: 022e01c70198cb
+       └── [BƯỚC ĐI BỘ] Tọa độ (X=302, Y=455) | Mode: 0x02 | Checksum: 98cb
+[10:11:38.138] [+ 381.46s] [#3   ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x02 Len:2   | Hex: 0100
+[10:11:38.139] [+ 381.46s] [#4   ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x02 Len:2   | Hex: 0100
+[10:11:38.309] [+ 381.63s] [#5   ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x0A Len:0   | Hex: 
+[10:11:38.310] [+ 381.63s] [#6   ] S->C Op:0x16 (MAP_SCENE_QUEST   ) Sub:0x01 Len:3   | Hex: 230000
+[10:11:38.348] [+ 381.67s] [#7   ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:38.348] [+ 381.67s] [#8   ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:38.496] [+ 381.81s] [#9   ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x0A Len:0   | Hex: 
+[10:11:38.496] [+ 381.81s] [#10  ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x01 Len:16  | Hex: 00000001060301000000000000020004
+       └── [THOẠI SERVER TRẢ VỀ] Length: 16
+[10:11:38.558] [+ 381.88s] [#11  ] C->S Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:1   | Hex: 0c
+       └── [CHỌN THOẠI NPC] Option: 0x0C (12)
+[10:11:38.558] [+ 381.88s] [#12  ] C->S Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:1   | Hex: 0c
+       └── [CHỌN THOẠI NPC] Option: 0x0C (12)
+[10:11:39.847] [+ 383.16s] [#13  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x09 Len:1   | Hex: 1e
+[10:11:39.847] [+ 383.16s] [#14  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x09 Len:1   | Hex: 1e
+[10:11:39.967] [+ 383.28s] [#15  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:39.967] [+ 383.28s] [#16  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:40.116] [+ 383.43s] [#17  ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x0A Len:0   | Hex: 
+[10:11:40.116] [+ 383.43s] [#18  ] S->C Op:0x18 (SHORTCUT_BAR_DIALOG) Sub:0x05 Len:3   | Hex: 5d0201
+       └── [MENU THOẠI SERVER TRẢ VỀ] Length: 3
+[10:11:40.147] [+ 383.46s] [#19  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:40.148] [+ 383.47s] [#20  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:40.296] [+ 383.61s] [#21  ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x0A Len:0   | Hex: 
+[10:11:40.297] [+ 383.61s] [#22  ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x01 Len:16  | Hex: 00000001060301000000000000030010
+       └── [THOẠI SERVER TRẢ VỀ] Length: 16
+[10:11:40.357] [+ 383.67s] [#23  ] C->S Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:1   | Hex: 0d
+       └── [CHỌN THOẠI NPC] Option: 0x0D (13)
+[10:11:40.357] [+ 383.67s] [#24  ] C->S Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:1   | Hex: 0d
+       └── [CHỌN THOẠI NPC] Option: 0x0D (13)
+[10:11:41.047] [+ 384.36s] [#25  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x09 Len:1   | Hex: 1e
+[10:11:41.048] [+ 384.37s] [#26  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x09 Len:1   | Hex: 1e
+[10:11:41.168] [+ 384.49s] [#27  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:41.168] [+ 384.49s] [#28  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:41.317] [+ 384.63s] [#29  ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x0A Len:0   | Hex: 
+[10:11:41.317] [+ 384.63s] [#30  ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x01 Len:16  | Hex: 00000001010301000100000000edc418
+       └── [THOẠI SERVER TRẢ VỀ] Length: 16
+[10:11:41.407] [+ 384.72s] [#31  ] C->S Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:1   | Hex: 0d
+       └── [CHỌN THOẠI NPC] Option: 0x0D (13)
+[10:11:41.408] [+ 384.73s] [#32  ] C->S Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:1   | Hex: 0d
+       └── [CHỌN THOẠI NPC] Option: 0x0D (13)
+[10:11:42.307] [+ 385.62s] [#33  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:42.308] [+ 385.63s] [#34  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:42.473] [+ 385.79s] [#35  ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x0A Len:0   | Hex: 
+[10:11:42.474] [+ 385.79s] [#36  ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x01 Len:16  | Hex: 000000020103010001000000001f7b18
+       └── [THOẠI SERVER TRẢ VỀ] Length: 16
+[10:11:42.578] [+ 385.90s] [#37  ] C->S Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:1   | Hex: 0d
+       └── [CHỌN THOẠI NPC] Option: 0x0D (13)
+[10:11:42.578] [+ 385.90s] [#38  ] C->S Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:1   | Hex: 0d
+       └── [CHỌN THOẠI NPC] Option: 0x0D (13)
+[10:11:43.417] [+ 386.73s] [#39  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:43.417] [+ 386.73s] [#40  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:43.566] [+ 386.88s] [#41  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x09 Len:4   | Hex: 0902ffff
+       └── ★ [TRỪ ITEM / VÉ REGISVOUCHER] Ô Slot: 9 | Số lượng thay đổi: 2
+[10:11:43.566] [+ 386.88s] [#42  ] S->C Op:0x18 (SHORTCUT_BAR_DIALOG) Sub:0x01 Len:3   | Hex: aac401
+[10:11:43.566] [+ 386.88s] [#43  ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x08 Len:0   | Hex: 
+[10:11:43.566] [+ 386.88s] [#44  ] S->C Op:0x16 (MAP_SCENE_QUEST   ) Sub:0x01 Len:3   | Hex: 230001
+[10:11:43.748] [+ 387.07s] [#45  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x08 Len:2   | Hex: 0e00
+[10:11:43.748] [+ 387.07s] [#46  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x08 Len:2   | Hex: 0e00
+[10:11:43.907] [+ 387.22s] [#47  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x20 Len:4   | Hex: e42e0000
+[10:11:43.907] [+ 387.22s] [#48  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x70 Len:4   | Hex: e42e0000
+[10:11:43.908] [+ 387.23s] [#49  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x84 Len:4   | Hex: e42e0000
+[10:11:43.908] [+ 387.23s] [#50  ] S->C Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:5   | Hex: e42e000000
+       └── [CHỌN THOẠI NPC] Option: 0xE4 (228)
+[10:11:43.908] [+ 387.23s] [#51  ] S->C Op:0x0F (PET_STATUS        ) Sub:0x0B Len:5   | Hex: 00e42e0000
+[10:11:43.908] [+ 387.23s] [#52  ] S->C Op:0x0C (FRIEND_MAIL       ) Sub:0xE4 Len:12  | Hex: 2e00001132f102b202000000
+[10:11:43.908] [+ 387.23s] [#53  ] S->C Op:0x05 (LOGIN_AUTH        ) Sub:0x00 Len:16  | Hex: e42e0000bb56cb5219376d5a5d5e3d62
+[10:11:43.908] [+ 387.23s] [#54  ] S->C Op:0x0F (PET_STATUS        ) Sub:0x04 Len:25  | Hex: e42e0000a2370000000104a8ccabbdee360000000000000000
+[10:11:43.908] [+ 387.23s] [#55  ] S->C Op:0x05 (LOGIN_AUTH        ) Sub:0x1E Len:6   | Hex: 01e42e000000
+[10:11:43.908] [+ 387.23s] [#56  ] S->C Op:0x0A (TRADE_STALL       ) Sub:0x03 Len:5   | Hex: e42e0000ff
+[10:11:43.908] [+ 387.23s] [#57  ] S->C Op:0x0A (TRADE_STALL       ) Sub:0x06 Len:5   | Hex: e42e000000
+[10:11:43.908] [+ 387.23s] [#58  ] S->C Op:0x0C (FRIEND_MAIL       ) Sub:0xC8 Len:12  | Hex: 2e00001132f102b202000000
+[10:11:43.908] [+ 387.23s] [#59  ] S->C Op:0x05 (LOGIN_AUTH        ) Sub:0x00 Len:16  | Hex: c82e0000b856c852f4326a5a5a5e3e62
+[10:11:43.908] [+ 387.23s] [#60  ] S->C Op:0x0F (PET_STATUS        ) Sub:0x04 Len:25  | Hex: c82e000001370000000104a967b5b76b2b0000000000000000
+[10:11:43.908] [+ 387.23s] [#61  ] S->C Op:0x05 (LOGIN_AUTH        ) Sub:0x1E Len:6   | Hex: 01c82e000000
+[10:11:43.908] [+ 387.23s] [#62  ] S->C Op:0x0A (TRADE_STALL       ) Sub:0x03 Len:5   | Hex: c82e0000ff
+[10:11:43.909] [+ 387.23s] [#63  ] S->C Op:0x0A (TRADE_STALL       ) Sub:0x06 Len:5   | Hex: c82e000000
+[10:11:43.909] [+ 387.23s] [#64  ] S->C Op:0x0C (FRIEND_MAIL       ) Sub:0xCB Len:12  | Hex: 2e00001132f102b202000000
+[10:11:43.909] [+ 387.23s] [#65  ] S->C Op:0x05 (LOGIN_AUTH        ) Sub:0x00 Len:16  | Hex: cb2e0000b856c852f4326a5a5a5efd63
+[10:11:43.909] [+ 387.23s] [#66  ] S->C Op:0x0F (PET_STATUS        ) Sub:0x04 Len:25  | Hex: cb2e000001370000000104a967b5b7704a0000000000000000
+[10:11:43.909] [+ 387.23s] [#67  ] S->C Op:0x05 (LOGIN_AUTH        ) Sub:0x1E Len:6   | Hex: 01cb2e000000
+[10:11:43.909] [+ 387.23s] [#68  ] S->C Op:0x0A (TRADE_STALL       ) Sub:0x03 Len:5   | Hex: cb2e0000ff
+[10:11:43.909] [+ 387.23s] [#69  ] S->C Op:0x0A (TRADE_STALL       ) Sub:0x06 Len:5   | Hex: cb2e000000
+[10:11:43.909] [+ 387.23s] [#70  ] S->C Op:0x0F (PET_STATUS        ) Sub:0x10 Len:35  | Hex: 03cb2e0000752f00000000000000000000000000000000000000000000000000000000
+[10:11:43.909] [+ 387.23s] [#71  ] S->C Op:0x3E (WEATHER_EFFECT    ) Sub:0x2E Len:0   | Hex: 
+[10:11:43.909] [+ 387.23s] [#72  ] S->C Op:0x16 (MAP_SCENE_QUEST   ) Sub:0x04 Len:28  | Hex: 0100ff00c2012d02010000000000020000006a027101020000000000
+       └── ★ [NẠP BẢN ĐỒ CẢNH MỚI] Map/Spawn data length: 28 bytes
+[10:11:43.909] [+ 387.23s] [#73  ] S->C Op:0x07 (TEAM_FORMATION    ) Sub:0xCB Len:10  | Hex: 2e00001132f102b20200
+[10:11:43.909] [+ 387.23s] [#74  ] S->C Op:0x07 (TEAM_FORMATION    ) Sub:0xC8 Len:10  | Hex: 2e00001132f102b20200
+[10:11:43.909] [+ 387.23s] [#75  ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x0A Len:0   | Hex: 
+[10:11:44.288] [+ 387.61s] [#76  ] C->S Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:1   | Hex: 00
+       └── [CHỌN THOẠI NPC] Option: 0x00 (0)
+[10:11:44.289] [+ 387.61s] [#77  ] C->S Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:1   | Hex: 00
+       └── [CHỌN THOẠI NPC] Option: 0x00 (0)
+[10:11:44.407] [+ 387.72s] [#78  ] C->S Op:0x0C (FRIEND_MAIL       ) Sub:0x01 Len:0   | Hex: 
+[10:11:44.408] [+ 387.73s] [#79  ] C->S Op:0x0C (FRIEND_MAIL       ) Sub:0x01 Len:0   | Hex: 
+[10:11:44.527] [+ 387.85s] [#80  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:44.528] [+ 387.85s] [#81  ] C->S Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x06 Len:0   | Hex: 
+[10:11:44.557] [+ 387.87s] [#82  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x8A Len:0   | Hex: 
+[10:11:44.557] [+ 387.87s] [#83  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x7A Len:4   | Hex: e42e0000
+[10:11:44.557] [+ 387.87s] [#84  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x7A Len:4   | Hex: c82e0000
+[10:11:44.557] [+ 387.87s] [#85  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x7A Len:4   | Hex: cb2e0000
+[10:11:44.557] [+ 387.87s] [#86  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0xDD Len:1   | Hex: 00
+[10:11:44.557] [+ 387.87s] [#87  ] S->C Op:0x0A (TRADE_STALL       ) Sub:0x03 Len:5   | Hex: c82e0000ff
+[10:11:44.558] [+ 387.87s] [#88  ] S->C Op:0x0A (TRADE_STALL       ) Sub:0x03 Len:5   | Hex: cb2e0000ff
+[10:11:44.558] [+ 387.88s] [#89  ] S->C Op:0x0A (TRADE_STALL       ) Sub:0x03 Len:5   | Hex: e42e0000ff
+[10:11:44.558] [+ 387.88s] [#90  ] S->C Op:0x0F (PET_STATUS        ) Sub:0x04 Len:75  | Hex: cb2e000001370000000104a967b5b7704a0000000000000000e42e0000a2370000000104a8ccabbdee360000000000000000c82e000001370000000104a967b5b76b2b0000000000000000
+[10:11:44.558] [+ 387.88s] [#91  ] S->C Op:0x0B (INVENTORY_ITEM    ) Sub:0x04 Len:16  | Hex: 02c82e000000000002cb2e0000000000
+[10:11:44.558] [+ 387.88s] [#92  ] S->C Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:15  | Hex: c82e00000acb2e00000be42e00000a
+       └── [CHỌN THOẠI NPC] Option: 0xC8 (200)
+[10:11:44.558] [+ 387.88s] [#93  ] S->C Op:0x0F (PET_STATUS        ) Sub:0x04 Len:25  | Hex: c82e000001370000000104a967b5b76b2b0000000000000000
+[10:11:44.558] [+ 387.88s] [#94  ] S->C Op:0x0F (PET_STATUS        ) Sub:0x04 Len:25  | Hex: cb2e000001370000000104a967b5b7704a0000000000000000
+[10:11:44.558] [+ 387.88s] [#95  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x4C Len:4   | Hex: e42e0000
+[10:11:44.558] [+ 387.88s] [#96  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x4C Len:4   | Hex: c82e0000
+[10:11:44.558] [+ 387.88s] [#97  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x4C Len:4   | Hex: cb2e0000
+[10:11:44.558] [+ 387.88s] [#98  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x66 Len:0   | Hex: 
+[10:11:44.558] [+ 387.88s] [#99  ] S->C Op:0x0F (PET_STATUS        ) Sub:0x10 Len:35  | Hex: 03cb2e0000752f00000000000000000000000000000000000000000000000000000000
+[10:11:44.559] [+ 387.88s] [#100 ] S->C Op:0x05 (LOGIN_AUTH        ) Sub:0x1E Len:16  | Hex: 03c82e000000cb2e000000e42e000000
+[10:11:44.648] [+ 387.97s] [#101 ] C->S Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:1   | Hex: 0a
+       └── [CHỌN THOẠI NPC] Option: 0x0A (10)
+[10:11:44.648] [+ 387.97s] [#102 ] C->S Op:0x20 (NPC_DIALOG_CHOICE ) Sub:0x02 Len:1   | Hex: 0a
+       └── [CHỌN THOẠI NPC] Option: 0x0A (10)
+[10:11:44.676] [+ 387.99s] [#103 ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x08 Len:0   | Hex: 
+[10:11:44.676] [+ 387.99s] [#104 ] S->C Op:0x05 (LOGIN_AUTH        ) Sub:0x04 Len:0   | Hex: 
+[10:11:44.768] [+ 388.09s] [#105 ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x36 Len:0   | Hex: 
+[10:11:44.768] [+ 388.09s] [#106 ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x36 Len:0   | Hex: 
+[10:11:44.916] [+ 388.23s] [#107 ] S->C Op:0x14 (CHAT_DIALOG_TEXT  ) Sub:0x09 Len:0   | Hex: 

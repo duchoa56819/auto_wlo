@@ -49,8 +49,12 @@ Hệ thống tự động hóa toàn diện cho Wonderland Online: Quản lý t�
 | `wlo_party_combat_gui.py` | Mã nguồn giao diện chính tích hợp |
 | `wlo_party_gui.py` | Module quản lý tổ đội & di chuyển |
 | `wlo_auto_combat_gui.py` | Module tự động chiến đấu |
+| `wlo_auto_party.py` | Logic backend tự động mời nhóm và kiểm soát tổ đội |
+| `wlo_capture_party.py` / `wlo_capture_party_gui.py` | Công cụ bắt gói tin & giám sát tổ đội chuyên biệt |
+| `run_party_capture.bat` | Khởi chạy công cụ bắt gói tin tổ đội |
+| `test_combat_logic.py` | Script unit-test kiểm tra thuật toán chọn mục tiêu & ra chiêu |
 | `wlo_party_chars.json` | Cấu hình Char ID tương ứng với từng client |
 | `wlo_skills_database.json` | Cơ sở dữ liệu mã chiêu thức/kỹ năng |
 | `wlo_items_database.json` | Cơ sở dữ liệu danh mục vật phẩm |
 | `install_dependencies.bat` | Script 1-click cài đặt môi trường thư viện |
-| `requirements.txt` | Khai báo thư viện cần thiết (`frida`) |
+| `requirements.txt` | Khai báo thư viện cần thiết (`frida`, `frida-tools`, `psutil`) |

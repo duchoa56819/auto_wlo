@@ -1,1 +1,3 @@
 frida>=16.0.0
+frida-tools>=12.0.0
+psutil>=5.9.0

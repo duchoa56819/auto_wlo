@@ -1,0 +1,343 @@
+
+===============================================================================================
+=== PHIÊN GIÁM SÁT & PHÂN TÍCH NATIONAL TREASURE [2026-09-18 19:30:22] ===
+===============================================================================================
+
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x858C (34188) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x858D (34189) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x861C (34332) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x855B (34139) x1
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x75AE (30126) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x75AE (30126) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x75AE (30126) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x75AE (30126) x1
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x855B (34139) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x8562 (34146) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x858C (34188) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x855B (34139) x1
+
+***************************************************************************
+[W04] BẮT ĐẦU TRẬN ĐÁNH #1 (Map: 0 | Lúc 19:33:49)
+***************************************************************************
+[W04] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[W04] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[W04] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[W04] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+
+***************************************************************************
+[Wi01] BẮT ĐẦU TRẬN ĐÁNH #1 (Map: 0 | Lúc 19:33:49)
+***************************************************************************
+[Wi01] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+
+***************************************************************************
+[F04] BẮT ĐẦU TRẬN ĐÁNH #1 (Map: 0 | Lúc 19:33:49)
+***************************************************************************
+[F04] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[F04] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[F04] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[F04] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+
+***************************************************************************
+[W03] BẮT ĐẦU TRẬN ĐÁNH #1 (Map: 0 | Lúc 19:33:49)
+***************************************************************************
+[W03] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[W03] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[W03] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[W03] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[W04] CHUYỂN SANG MAP MỚI: ID 260 (0x0104)
+[F04] CHUYỂN SANG MAP MỚI: ID 260 (0x0104)
+[W03] CHUYỂN SANG MAP MỚI: ID 260 (0x0104)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 260 (0x0104)
+[W04] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[W03] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[F04] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[W04] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[F04] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[W03] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[W04] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[W03] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[F04] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[W04] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[F04] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[W03] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[W04] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[F04] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[W03] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[W04] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[W04] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[W04] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[W04] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[W04] HOÀN THÀNH TRẬN #1 trong 29.5s (0 lượt)!
+
+[Wi01] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[Wi01] HOÀN THÀNH TRẬN #1 trong 29.5s (4 lượt)!
+
+[F04] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[F04] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[F04] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[F04] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[F04] HOÀN THÀNH TRẬN #1 trong 29.5s (4 lượt)!
+
+[W03] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[W03] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[W03] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[W03] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[W03] HOÀN THÀNH TRẬN #1 trong 29.5s (4 lượt)!
+
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x8553 (34131) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x855C (34140) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x855F (34143) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x861C (34332) x1
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x8562 (34146) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x8525 (34085) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x858C (34188) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x861C (34332) x1
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x858C (34188) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x855C (34140) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x8553 (34131) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x8562 (34146) x1
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x75AF (30127) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x75AF (30127) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x75AF (30127) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x75AF (30127) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x75AF (30127) x1
+
+***************************************************************************
+[W04] BẮT ĐẦU TRẬN ĐÁNH #2 (Map: 1026 | Lúc 19:34:41)
+***************************************************************************
+[W04] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[W04] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[W04] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[W04] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+
+***************************************************************************
+[W03] BẮT ĐẦU TRẬN ĐÁNH #2 (Map: 1026 | Lúc 19:34:41)
+***************************************************************************
+[W03] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[W03] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[W03] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[W03] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+
+***************************************************************************
+[F04] BẮT ĐẦU TRẬN ĐÁNH #2 (Map: 1026 | Lúc 19:34:41)
+***************************************************************************
+[F04] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[F04] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[F04] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[F04] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+
+***************************************************************************
+[Wi01] BẮT ĐẦU TRẬN ĐÁNH #2 (Map: 1026 | Lúc 19:34:41)
+***************************************************************************
+[Wi01] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[W04] CHUYỂN SANG MAP MỚI: ID 1028 (0x0404)
+[F04] CHUYỂN SANG MAP MỚI: ID 1028 (0x0404)
+[W03] CHUYỂN SANG MAP MỚI: ID 1028 (0x0404)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1028 (0x0404)
+[W04] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[W04] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[W04] CHUYỂN SANG MAP MỚI: ID 260 (0x0104)
+[W03] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[W03] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[F04] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[F04] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[F04] CHUYỂN SANG MAP MỚI: ID 260 (0x0104)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 260 (0x0104)
+[W03] CHUYỂN SANG MAP MỚI: ID 260 (0x0104)
+[W04] CHUYỂN SANG MAP MỚI: ID 1027 (0x0403)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1027 (0x0403)
+[F04] CHUYỂN SANG MAP MỚI: ID 1027 (0x0403)
+[W04] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[W04] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[W03] CHUYỂN SANG MAP MỚI: ID 1027 (0x0403)
+[F04] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[W03] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[W03] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[F04] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[W04] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[F04] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[W03] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[W04] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[W04] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[W04] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[W04] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[W04] HOÀN THÀNH TRẬN #2 trong 8.5s (4 lượt)!
+
+[Wi01] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[Wi01] HOÀN THÀNH TRẬN #2 trong 8.5s (4 lượt)!
+
+[W03] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[W03] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[W03] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[W03] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[W03] HOÀN THÀNH TRẬN #2 trong 8.5s (4 lượt)!
+
+[F04] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[F04] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[F04] CHUYỂN SANG MAP MỚI: ID 258 (0x0102)
+[F04] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[F04] HOÀN THÀNH TRẬN #2 trong 8.5s (4 lượt)!
+
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x75B0 (30128) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x75B0 (30128) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x75B0 (30128) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x75B0 (30128) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x75B1 (30129) x1
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x8560 (34144) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x858D (34189) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x8562 (34146) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x8553 (34131) x1
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x855C (34140) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x858E (34190) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x8553 (34131) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x858E (34190) x1
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x75B2 (30130) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x75B2 (30130) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x75B2 (30130) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x75B2 (30130) x1
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x855E (34142) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x855E (34142) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x855E (34142) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x855E (34142) x1
+
+***************************************************************************
+[W04] BẮT ĐẦU TRẬN ĐÁNH #3 (Map: 1026 | Lúc 19:35:55)
+***************************************************************************
+[W04] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[W04] CHUYỂN SANG MAP MỚI: ID 514 (0x0202)
+[W04] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[W04] CHUYỂN SANG MAP MỚI: ID 770 (0x0302)
+[W04] CHUYỂN SANG MAP MỚI: ID 1025 (0x0401)
+[W04] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+
+***************************************************************************
+[F04] BẮT ĐẦU TRẬN ĐÁNH #3 (Map: 1026 | Lúc 19:35:55)
+***************************************************************************
+[F04] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[F04] CHUYỂN SANG MAP MỚI: ID 514 (0x0202)
+[F04] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[F04] CHUYỂN SANG MAP MỚI: ID 770 (0x0302)
+[F04] CHUYỂN SANG MAP MỚI: ID 1025 (0x0401)
+[F04] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+
+***************************************************************************
+[W03] BẮT ĐẦU TRẬN ĐÁNH #3 (Map: 1026 | Lúc 19:35:55)
+***************************************************************************
+[W03] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[W03] CHUYỂN SANG MAP MỚI: ID 514 (0x0202)
+[W03] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[W03] CHUYỂN SANG MAP MỚI: ID 770 (0x0302)
+[W03] CHUYỂN SANG MAP MỚI: ID 1025 (0x0401)
+[W03] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+
+***************************************************************************
+[Wi01] BẮT ĐẦU TRẬN ĐÁNH #3 (Map: 1026 | Lúc 19:35:55)
+***************************************************************************
+[Wi01] CHUYỂN SANG MAP MỚI: ID 513 (0x0201)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 514 (0x0202)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 769 (0x0301)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 770 (0x0302)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1025 (0x0401)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[W04] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[F04] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[W03] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[W04] CHUYỂN SANG MAP MỚI: ID 260 (0x0104)
+[W04] CHUYỂN SANG MAP MỚI: ID 1028 (0x0404)
+[W03] CHUYỂN SANG MAP MỚI: ID 260 (0x0104)
+[F04] CHUYỂN SANG MAP MỚI: ID 260 (0x0104)
+[F04] CHUYỂN SANG MAP MỚI: ID 1028 (0x0404)
+[W03] CHUYỂN SANG MAP MỚI: ID 1028 (0x0404)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 260 (0x0104)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1028 (0x0404)
+[W04] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[W04] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[F04] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[F04] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[W03] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[W03] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[W04] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[W04] CHUYỂN SANG MAP MỚI: ID 1027 (0x0403)
+[F04] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[F04] CHUYỂN SANG MAP MỚI: ID 1027 (0x0403)
+[W04] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1027 (0x0403)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[F04] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[W03] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[W03] CHUYỂN SANG MAP MỚI: ID 1027 (0x0403)
+[W03] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[W04] CHUYỂN SANG MAP MỚI: ID 770 (0x0302)
+[W04] CHUYỂN SANG MAP MỚI: ID 1025 (0x0401)
+[W04] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 770 (0x0302)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1025 (0x0401)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[F04] CHUYỂN SANG MAP MỚI: ID 770 (0x0302)
+[F04] CHUYỂN SANG MAP MỚI: ID 1025 (0x0401)
+[F04] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[W03] CHUYỂN SANG MAP MỚI: ID 770 (0x0302)
+[W03] CHUYỂN SANG MAP MỚI: ID 1025 (0x0401)
+[W03] CHUYỂN SANG MAP MỚI: ID 1026 (0x0402)
+[W04] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[W04] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[W04] CHUYỂN SANG MAP MỚI: ID 1027 (0x0403)
+[F04] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[F04] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[W03] CHUYỂN SANG MAP MỚI: ID 772 (0x0304)
+[W03] CHUYỂN SANG MAP MỚI: ID 516 (0x0204)
+[F04] CHUYỂN SANG MAP MỚI: ID 1027 (0x0403)
+[W03] CHUYỂN SANG MAP MỚI: ID 1027 (0x0403)
+[W04] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 1027 (0x0403)
+[W04] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[W04] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[F04] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[F04] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[F04] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[W03] CHUYỂN SANG MAP MỚI: ID 259 (0x0103)
+[W03] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[W03] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 771 (0x0303)
+[Wi01] CHUYỂN SANG MAP MỚI: ID 515 (0x0203)
+[W04] HOÀN THÀNH TRẬN #3 trong 22.4s (8 lượt)!
+
+[F04] HOÀN THÀNH TRẬN #3 trong 22.4s (8 lượt)!
+
+[W03] HOÀN THÀNH TRẬN #3 trong 22.4s (8 lượt)!
+
+[Wi01] HOÀN THÀNH TRẬN #3 trong 22.4s (8 lượt)!
+
+  🎁 [W04] NHẬN THƯỞNG: Mã 0x855D (34141) x1
+  🎁 [Wi01] NHẬN THƯỞNG: Mã 0x855D (34141) x1
+  🎁 [F04] NHẬN THƯỞNG: Mã 0x855D (34141) x1
+  🎁 [W03] NHẬN THƯỞNG: Mã 0x855D (34141) x1

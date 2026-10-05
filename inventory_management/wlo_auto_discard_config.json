@@ -1,0 +1,110 @@
+{
+  "auto_discard_enabled": true,
+  "auto_discard_on_open": false,
+  "dry_run": false,
+  "delay_between_steps_ms": 150,
+  "blacklist": {
+    "0x7D2D": {
+      "name": "Crepe",
+      "code_dec": 32045,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x61E5": {
+      "name": "30T",
+      "code_dec": 25061,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x61E4": {
+      "name": "20T",
+      "code_dec": 25060,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x61E6": {
+      "name": "40T",
+      "code_dec": 25062,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x8525": {
+      "name": "DarkChocolate",
+      "code_dec": 34085,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x80EE": {
+      "name": "PoisonPotion",
+      "code_dec": 33006,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x810A": {
+      "name": "Banana",
+      "code_dec": 33034,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x7D1E": {
+      "name": "MeatBall",
+      "code_dec": 32030,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x7DA4": {
+      "name": "ChocolateIceCream",
+      "code_dec": 32164,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x7D67": {
+      "name": "Wine",
+      "code_dec": 32103,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x8515": {
+      "name": "LoveBoutique",
+      "code_dec": 34069,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x8514": {
+      "name": "LoveBoutiqueLunch",
+      "code_dec": 34068,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x8528": {
+      "name": "LoveBoutiqueLunch",
+      "code_dec": 34088,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x7D4A": {
+      "name": "Vật phẩm_0x7D4A",
+      "code_dec": 32074,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x7D4B": {
+      "name": "Vật phẩm_0x7D4B",
+      "code_dec": 32075,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x7D49": {
+      "name": "Vật phẩm_0x7D49",
+      "code_dec": 32073,
+      "enabled": true,
+      "discard_count": 0
+    },
+    "0x7D48": {
+      "name": "Vật phẩm_0x7D48",
+      "code_dec": 32072,
+      "enabled": true,
+      "discard_count": 0
+    }
+  }
+}

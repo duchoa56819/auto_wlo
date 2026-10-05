@@ -1,0 +1,53 @@
+=====================================================================
+         BẢNG THỐNG KÊ KẾT QUẢ MỞ HỘP QUÀ W04 (NATIONAL TREASURE / EVENT)
+         Thời gian cập nhật: 2026-09-19 08:34:56
+=====================================================================
+
+📦 LOẠI HỘP: Peach (Mã: 0x8520)
+   Tổng số lần mở ghi nhận: 9 lần
+   -----------------------------------------------------------------
+   Mã Hex   | Mã Dec | Tên Phần Thưởng Nhận Được       | Số Lượng | Tỉ Lệ
+   -----------------------------------------------------------------
+   0x84D8   | 34008  | Hộp Quà Bất Ngờ (Surprise Box)   | x4       |  44.4%
+   0x8525   | 34085  | DarkChocolate                    | x1       |  11.1%
+   0x7D1E   | 32030  | Vật phẩm_0x7D1E                  | x20      |  11.1%
+   0x7D2D   | 32045  | Crepe                            | x20      |  11.1%
+   0x80FA   | 33018  | PoisonRecoverPotion              | x3       |  11.1%
+   0x80FC   | 33020  | UndeadFeather                    | x1       |  11.1%
+
+📦 LOẠI HỘP: MagicalEgg (Mã: 0x855E)
+   Tổng số lần mở ghi nhận: 18 lần
+   -----------------------------------------------------------------
+   Mã Hex   | Mã Dec | Tên Phần Thưởng Nhận Được       | Số Lượng | Tỉ Lệ
+   -----------------------------------------------------------------
+   0x84DB   | 34011  | Vật phẩm_0x84DB                  | x4       |  11.1%
+   0x916D   | 37229  | Vật phẩm_0x916D                  | x3       |   5.6%
+   0x9177   | 37239  | YellowDiamond                    | x6       |  11.1%
+   0x80FB   | 33019  | FullHpPotion                     | x3       |   5.6%
+   0x84D8   | 34008  | Hộp Quà Bất Ngờ (Surprise Box)   | x1       |   5.6%
+   0x8528   | 34088  | Vật phẩm_0x8528                  | x1       |   5.6%
+   0x855B   | 34139  | PetReturnScroll                  | x1       |   5.6%
+   0x9171   | 37233  | Vật phẩm_0x9171                  | x3       |   5.6%
+   0x84E4   | 34020  | Vật phẩm_0x84E4                  | x2       |  11.1%
+   0x916F   | 37231  | Vật phẩm_0x916F                  | x3       |   5.6%
+   0x852A   | 34090  | Vật phẩm_0x852A                  | x1       |   5.6%
+   0x8529   | 34089  | ReturnScroll                     | x2       |  11.1%
+   0x8525   | 34085  | DarkChocolate                    | x2       |  11.1%
+
+📦 LOẠI HỘP: BigMagicalEgg (Mã: 0x855D)
+   Tổng số lần mở ghi nhận: 15 lần
+   -----------------------------------------------------------------
+   Mã Hex   | Mã Dec | Tên Phần Thưởng Nhận Được       | Số Lượng | Tỉ Lệ
+   -----------------------------------------------------------------
+   0x8553   | 34131  | 3xPotion                         | x1       |   6.7%
+   0x80FB   | 33019  | FullHpPotion                     | x2       |  13.3%
+   0xEE53   | 61011  | Vật phẩm_0xEE53                  | x3       |  20.0%
+   0x855B   | 34139  | PetReturnScroll                  | x2       |   6.7%
+   0x8515   | 34069  | LoveBoutique                     | x1       |   6.7%
+   0x855F   | 34143  | 4xPotion                         | x2       |  13.3%
+   0x84D8   | 34008  | Hộp Quà Bất Ngờ (Surprise Box)   | x4       |   6.7%
+   0x84DC   | 34012  | BlueAlchemyBook                  | x2       |   6.7%
+   0x84DB   | 34011  | Vật phẩm_0x84DB                  | x2       |   6.7%
+   0x8516   | 34070  | Rice                             | x1       |   6.7%
+   0x84E4   | 34020  | Vật phẩm_0x84E4                  | x1       |   6.7%
+

@@ -11,12 +11,10 @@
     "aloginwi01": "0x00002EE8",
     "alogin-wi01": "0x00002EE8",
     "bgdwi01": "0x00002EE8",
-    "alogin-w01.exe": "0x00002EE3",
-    "alogin-f02.exe": "0x00002D9C",
-    "alogin-f04.exe": "0x00002EE3",
-    "alogin-w04.exe": "0x00002D9E",
+    "alogin-w01.exe": "0x00002ECB",
+    "alogin-f02.exe": "0x00002EE3",
+    "alogin-f04.exe": "0x00002ECB",
+    "alogin-w04.exe": "0x00002EC8",
     "alogin-wi01.exe": "0x00002EE8",
-    "alogin-w03.exe": "0x00002D9F",
-    "alogin-w02.exe": "0x00002ECC",
-    "alogin-sincosne.exe": "0x00002EE3"
+    "alogin-w03.exe": "0x00002ECB"
 }

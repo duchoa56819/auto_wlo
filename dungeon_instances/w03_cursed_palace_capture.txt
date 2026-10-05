@@ -1,0 +1,122 @@
+=== BẮT ĐẦU BẮT GÓI TIN ALOGIN-W03 (PID: 9840) LÚC 2026-09-18 11:07:53.937525 ===
+
+[11:08:13.876] [+  19.94s] [#1   ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 010129
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 010129
+[11:08:13.877] [+  19.94s] [#2   ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 010129
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 010129
+[11:08:14.049] [+  20.11s] [#3   ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 010129
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 010129
+[11:08:16.906] [+  22.97s] [#4   ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 02092a
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 02092a
+[11:08:16.906] [+  22.97s] [#5   ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 02092a
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 02092a
+[11:08:17.083] [+  23.15s] [#6   ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 02092a
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 02092a
+[11:08:18.346] [+  24.41s] [#7   ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 03012b
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 03012b
+[11:08:18.347] [+  24.41s] [#8   ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 03012b
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 03012b
+[11:08:18.516] [+  24.58s] [#9   ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 03012b
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 03012b
+[11:08:20.146] [+  26.21s] [#10  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 04012c
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 04012c
+[11:08:20.146] [+  26.21s] [#11  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 04012c
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 04012c
+[11:08:20.316] [+  26.38s] [#12  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 04012c
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 04012c
+[11:08:21.796] [+  27.86s] [#13  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 060124
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 060124
+[11:08:21.797] [+  27.86s] [#14  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 060124
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 060124
+[11:08:21.982] [+  28.05s] [#15  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 060124
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 060124
+[11:08:23.386] [+  29.45s] [#16  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 070125
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 070125
+[11:08:23.386] [+  29.45s] [#17  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 070125
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 070125
+[11:08:23.566] [+  29.63s] [#18  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 070125
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 070125
+[11:08:28.606] [+  34.67s] [#19  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 080226
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 080226
+[11:08:28.606] [+  34.67s] [#20  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 080226
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 080226
+[11:08:28.782] [+  34.84s] [#21  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 080226
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 080226
+[11:08:31.726] [+  37.79s] [#22  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0a012d
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0a012d
+[11:08:31.727] [+  37.79s] [#23  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0a012d
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0a012d
+[11:08:31.898] [+  37.96s] [#24  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0a012d
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0a012d
+[11:08:33.616] [+  39.68s] [#25  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0b0127
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0b0127
+[11:08:33.617] [+  39.68s] [#26  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0b0127
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0b0127
+[11:08:33.782] [+  39.84s] [#27  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0b0127
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0b0127
+[11:08:34.997] [+  41.06s] [#28  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0c0128
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0c0128
+[11:08:34.997] [+  41.06s] [#29  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0c0128
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0c0128
+[11:08:35.170] [+  41.23s] [#30  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0c0128
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0c0128
+[11:08:37.096] [+  43.16s] [#31  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0d011f
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0d011f
+[11:08:37.096] [+  43.16s] [#32  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0d011f
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0d011f
+[11:08:37.250] [+  43.31s] [#33  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0d011f
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0d011f
+[11:08:39.466] [+  45.53s] [#34  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0e0220
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0e0220
+[11:08:39.467] [+  45.53s] [#35  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0e0220
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0e0220
+[11:08:39.648] [+  45.71s] [#36  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0e0220
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0e0220
+[11:08:41.506] [+  47.57s] [#37  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0f0221
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0f0221
+[11:08:41.506] [+  47.57s] [#38  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0f0221
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0f0221
+[11:08:41.683] [+  47.75s] [#39  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 0f0221
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 0f0221
+[11:08:43.156] [+  49.22s] [#40  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 100122
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 100122
+[11:08:43.157] [+  49.22s] [#41  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 100122
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 100122
+[11:08:43.332] [+  49.39s] [#42  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 100122
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 100122
+[11:08:45.316] [+  51.38s] [#43  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 110223
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 110223
+[11:08:45.316] [+  51.38s] [#44  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 110223
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 110223
+[11:08:45.516] [+  51.58s] [#45  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 110223
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 110223
+[11:08:47.626] [+  53.69s] [#46  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 121a1a
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 121a1a
+[11:08:47.626] [+  53.69s] [#47  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 121a1a
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 121a1a
+[11:08:47.797] [+  53.86s] [#48  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 121a1a
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 121a1a
+[11:08:49.726] [+  55.79s] [#49  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 13021b
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 13021b
+[11:08:49.726] [+  55.79s] [#50  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 13021b
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 13021b
+[11:08:49.898] [+  55.96s] [#51  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 13021b
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 13021b
+[11:08:51.706] [+  57.77s] [#52  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 140a1c
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 140a1c
+[11:08:51.706] [+  57.77s] [#53  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 140a1c
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 140a1c
+[11:08:51.882] [+  57.95s] [#54  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 140a1c
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 140a1c
+[11:08:54.436] [+  60.50s] [#55  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 15011d
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 15011d
+[11:08:54.437] [+  60.50s] [#56  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 15011d
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 15011d
+[11:08:54.615] [+  60.68s] [#57  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 15011d
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 15011d
+[11:08:55.576] [+  61.64s] [#58  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 16011e
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 16011e
+[11:08:55.577] [+  61.64s] [#59  ] C->S Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 16011e
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 16011e
+[11:08:55.748] [+  61.81s] [#60  ] S->C Op:0x17 (CHAR_ATTRIBUTES_ITEM) Sub:0x0A Len:3   | Hex: 16011e
+       └── [THAO TÁC TÚI ĐỒ / THUỘC TÍNH 0x17] Sub:0x0A | Data: 16011e
