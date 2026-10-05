@@ -1,0 +1,212 @@
+{
+  "0x092F": {
+    "skill_id_hex": "0x092F",
+    "raw_bytes": "2F 09",
+    "name_en": "Sleep",
+    "name_vi": "Thuật Gây Mê (Ngủ)",
+    "owner": "Char (Water)",
+    "element": "Water",
+    "target_type": "Enemy",
+    "desc": "Kỹ năng phong ấn hệ Thủy làm đối thủ chìm vào giấc ngủ trong nhiều hiệp."
+  },
+  "0x543B": {
+    "skill_id_hex": "0x543B",
+    "raw_bytes": "3B 54",
+    "name_en": "Shrink",
+    "name_vi": "Thu Nhỏ",
+    "owner": "Char (Water)",
+    "element": "Water",
+    "target_type": "Enemy",
+    "desc": "Kỹ năng hệ Thủy thu nhỏ kích thước đối thủ, giảm mạnh sát thương và chỉ số."
+  },
+  "0x2B2B": {
+    "skill_id_hex": "0x2B2B",
+    "raw_bytes": "2B 2B",
+    "name_en": "Freeze",
+    "name_vi": "Băng Đông (Đóng Băng)",
+    "owner": "Char (Water)",
+    "element": "Water",
+    "target_type": "Enemy",
+    "desc": "Kỹ năng phong ấn trứ danh hệ Thủy, đóng băng hoàn toàn hành động của mục tiêu."
+  },
+  "0xC23A": {
+    "skill_id_hex": "0xC23A",
+    "raw_bytes": "3A C2",
+    "name_en": "Recover",
+    "name_vi": "Hồi Phục (Giải Trừ Trạng Thái)",
+    "owner": "Char (Water)",
+    "element": "Water",
+    "target_type": "Ally",
+    "desc": "Giải trừ toàn bộ trạng thái phong ấn bất lợi (ngủ, đóng băng, tê liệt...) cho đồng đội."
+  },
+  "0x222B": {
+    "skill_id_hex": "0x222B",
+    "raw_bytes": "2B 22",
+    "name_en": "Healing",
+    "name_vi": "Thuật Hồi Máu (Trị Liệu)",
+    "owner": "Char (Water)",
+    "element": "Water",
+    "target_type": "Ally",
+    "desc": "Hồi phục một lượng lớn sinh lực (HP) cho đồng đội hoặc bản thân."
+  },
+  "0x7342": {
+    "skill_id_hex": "0x7342",
+    "raw_bytes": "42 73",
+    "name_en": "Water Fairy",
+    "name_vi": "Nữ Thần Thủy (Fairy Nước)",
+    "owner": "Char (Water)",
+    "element": "Water",
+    "target_type": "Ally",
+    "desc": "Kỹ năng Nữ thần hộ mệnh hệ Thủy, tạo khiên chắn bảo hộ hoặc hồi phục mạnh mẽ toàn đội."
+  },
+  "0x793B": {
+    "skill_id_hex": "0x793B",
+    "raw_bytes": "3B 79",
+    "name_en": "Water Dragon",
+    "name_vi": "Băng Long (Rồng Nước)",
+    "owner": "Char (Water)",
+    "element": "Water",
+    "target_type": "Enemy",
+    "desc": "Kỹ năng tấn công sát thương diện rộng cực mạnh của hệ Thủy hình rồng băng nước."
+  },
+  "0x1427": {
+    "skill_id_hex": "0x1427",
+    "raw_bytes": "27 14",
+    "name_en": "Normal Attack (Char)",
+    "name_vi": "Đánh Thường (Nhân Vật)",
+    "owner": "Char",
+    "element": "Normal",
+    "target_type": "Enemy",
+    "desc": "Đòn đánh vật lý cơ bản của nhân vật, không tiêu tốn SP."
+  },
+  "0x1227": {
+    "skill_id_hex": "0x1227",
+    "raw_bytes": "27 12",
+    "name_en": "Normal Attack (Pet)",
+    "name_vi": "Đánh Thường (Pet Niss)",
+    "owner": "Pet (Niss)",
+    "element": "Normal",
+    "target_type": "Enemy",
+    "desc": "Đòn đánh cơ bản của Pet Niss, không tiêu tốn SP."
+  },
+  "0x1F3B": {
+    "skill_id_hex": "0x1F3B",
+    "raw_bytes": "3B 1F",
+    "name_en": "Thunder",
+    "name_vi": "Sấm Sét (Lôi Điện Niss)",
+    "owner": "Pet (Niss)",
+    "element": "Wind",
+    "target_type": "Enemy",
+    "desc": "Kỹ năng tấn công sấm sét đặc trưng của Pet Niss giáng đòn sét xuống đối thủ."
+  },
+  "0xE33A": {
+    "skill_id_hex": "0xE33A",
+    "raw_bytes": "3A E3",
+    "name_en": "ManaBuff",
+    "name_vi": "Hồi SP (Bơm Mana)",
+    "owner": "Pet (Niss)",
+    "element": "Special",
+    "target_type": "Ally",
+    "desc": "Kỹ năng hỗ trợ quý giá của Pet Niss hồi phục điểm năng lượng ma pháp (SP) cho chủ nhân."
+  },
+  "0x75EA": {
+    "skill_id_hex": "0x75EA",
+    "raw_bytes": "EA 75",
+    "name_en": "Defend",
+    "name_vi": "Phòng Thủ",
+    "owner": "Common",
+    "element": "Normal",
+    "target_type": "Self",
+    "desc": "Thế thủ giảm một nửa sát thương nhận vào trong lượt đánh."
+  },
+  "0x89EA": {
+    "skill_id_hex": "0x89EA",
+    "raw_bytes": "EA 89",
+    "name_en": "Flee",
+    "name_vi": "Bỏ Chạy (Thoát Trận)",
+    "owner": "Common",
+    "element": "Normal",
+    "target_type": "Self",
+    "desc": "Thao tác thoát khỏi trận chiến ngay lập tức."
+  },
+  "0x043B": {
+    "skill_id_hex": "0x043B",
+    "raw_bytes": "3B 04",
+    "name_en": "BlazeBeating 3",
+    "name_vi": "Liệt Hỏa Đả Kích 3 (Đấm Lửa 3)",
+    "owner": "Char (Fire)",
+    "element": "Fire",
+    "target_type": "Enemy",
+    "desc": "Kỹ năng đòn đánh vật lý bọc hỏa lực mạnh mẽ cấp 3 của nhân vật Hệ Hỏa."
+  },
+  "0x332B": {
+    "skill_id_hex": "0x332B",
+    "raw_bytes": "2B 33",
+    "name_en": "FireStoneBead 3",
+    "name_vi": "Hỏa Đạn 3 (Đạn Lửa 3)",
+    "owner": "Char (Fire)",
+    "element": "Fire",
+    "target_type": "Enemy",
+    "desc": "Kỹ năng phép thuật bắn quả cầu lửa nổ sát thương mạnh cấp 3 của Hệ Hỏa."
+  },
+  "0x553B": {
+    "skill_id_hex": "0x553B",
+    "raw_bytes": "3B 55",
+    "name_en": "Hot Fire",
+    "name_vi": "Nhiệt Hỏa Biệt Kỹ (Buff Công Hỏa)",
+    "owner": "Char (Fire)",
+    "element": "Fire",
+    "target_type": "Ally",
+    "desc": "Kỹ năng hỗ trợ gia tăng uy lực tấn công của đồng đội hoặc bản thân lên mức cực đại."
+  },
+  "0xEB61": {
+    "skill_id_hex": "0xEB61",
+    "raw_bytes": "61 EB",
+    "name_en": "DragonSkill (Fire Dragon)",
+    "name_vi": "Hỏa Long (Rồng Lửa)",
+    "owner": "Char (Fire)",
+    "element": "Fire",
+    "target_type": "Enemy",
+    "desc": "Tuyệt kỹ sát thương diện rộng cực mạnh của hệ Hỏa triệu hồi rồng lửa thiêu đốt đối thủ."
+  },
+  "0x7B42": {
+    "skill_id_hex": "0x7B42",
+    "raw_bytes": "42 7B",
+    "name_en": "FairySkill (Fire Fairy)",
+    "name_vi": "Nữ Thần Hỏa (Fairy Lửa)",
+    "owner": "Char (Fire)",
+    "element": "Fire",
+    "target_type": "Enemy",
+    "desc": "Kỹ năng Nữ Thần Hộ Mệnh Hệ Hỏa thiêu đốt uy lực khủng khiếp lên mục tiêu."
+  },
+  "0xC43A": {
+    "skill_id_hex": "0xC43A",
+    "raw_bytes": "3A C4",
+    "name_en": "Hagendis",
+    "name_vi": "Ma Thần Hagendis (Tuyệt Kỹ CS Hỏa)",
+    "owner": "Char (Fire)",
+    "element": "Fire",
+    "target_type": "Enemy",
+    "desc": "Tuyệt kỹ Chuyển Sinh (CS) tối thượng của Hệ Hỏa triệu hồi Ma Thần Hagendis hủy diệt."
+  },
+  "0xFB2A": {
+    "skill_id_hex": "0xFB2A",
+    "raw_bytes": "2A FB",
+    "name_en": "Mess",
+    "name_vi": "Hỗn Loạn (Rối Loạn Tâm Trí)",
+    "owner": "Pet (Eva)",
+    "element": "Special",
+    "target_type": "Enemy",
+    "desc": "Kỹ năng phong ấn đặc trưng của Pet Eva khiến tâm trí đối thủ rơi vào trạng thái hỗn loạn mất kiểm soát."
+  },
+  "0xD861": {
+    "skill_id_hex": "0xD861",
+    "raw_bytes": "61 D8",
+    "name_en": "GhostFire",
+    "name_vi": "Ma Hỏa (Quỷ Hỏa Eva)",
+    "owner": "Pet (Eva)",
+    "element": "Fire",
+    "target_type": "Enemy",
+    "desc": "Kỹ năng tấn công ngọn lửa ma quái của Pet Eva giáng sát thương ma thuật xuống kẻ địch."
+  }
+}

@@ -1,0 +1,50 @@
+﻿==============================================================================
+   HƯỚNG DẪN THIẾT LẬP BỘ CÔNG CỤ WLO SANG MÁY TÍNH MỚI
+==============================================================================
+
+Toàn bộ gói công cụ này đã được tinh gọn tối đa (chưa đầy 0.3 MB).
+Bạn chỉ cần thực hiện 3 bước đơn giản sau trên máy mới:
+
+------------------------------------------------------------------------------
+BƯỚC 1: CÀI ĐẶT PYTHON (NẾU MÁY MỚI CHƯA CÓ)
+------------------------------------------------------------------------------
+1. Tải Python từ trang chủ: https://www.python.org/downloads/
+   (Khuyến nghị bản Python 3.10, 3.11, 3.12 hoặc mới hơn, bản 64-bit cho Windows).
+2. [CỰC KỲ QUAN TRỌNG]: Khi bật bảng cài đặt Python lên, BẮT BUỘC TÍCH CHỌN:
+   ☑ "Add python.exe to PATH"
+   (Nếu quên tích ô này, các file .bat sẽ không gọi được lệnh python).
+
+------------------------------------------------------------------------------
+BƯỚC 2: CÀI ĐẶT THƯ VIỆN BỔ TRỢ (1-CLICK)
+------------------------------------------------------------------------------
+- Click đúp vào file: install_dependencies.bat
+- File sẽ tự động tải và cài đặt thư viện 'frida' trong vài giây.
+- Khi màn hình báo "[V] Cài đặt hoàn tất!", bạn có thể tắt bảng đen đi.
+
+------------------------------------------------------------------------------
+BƯỚC 3: SỬ DỤNG
+------------------------------------------------------------------------------
+- Copy toàn bộ các file trong thư mục này vào chung thư mục chứa game Wonderland
+  Online (nơi có các file alogin.exe, alogin-F02.exe, alogin-F04.exe...).
+- Đăng nhập các cửa sổ game Wonderland Online.
+- Click đúp vào file: run_party_auto_combat.bat
+  -> Giao diện hợp nhất 2-trong-1 sẽ tự động mở lên:
+     + Tab 1: Quản lý tổ đội, Auto Relog lấy Char ID, đi Athena song song, dọn rác túi đồ.
+     + Tab 2: Tự động chọn mục tiêu & ra chiêu chiến đấu 4 acc.
+
+------------------------------------------------------------------------------
+DANH SÁCH FILE TRONG GÓI:
+------------------------------------------------------------------------------
+1. run_party_auto_combat.bat      : File chạy chính khởi động giao diện hợp nhất
+2. wlo_party_combat_gui.py        : Giao diện hợp nhất 2-trong-1 (Tổ đội + Combat)
+3. wlo_party_gui.py               : Module quản lý tổ đội & di chuyển
+4. wlo_auto_combat_gui.py         : Module quản lý tự động chiến đấu
+5. wlo_party_chars.json           : Cấu hình Char ID tài khoản
+6. wlo_skills_database.json       : Cơ sở dữ liệu mã chiêu thức/kỹ năng
+7. wlo_items_database.json        : Cơ sở dữ liệu vật phẩm
+8. run_party_gui.bat              : Chạy riêng giao diện Tổ đội (tùy chọn)
+9. run_auto_combat.bat            : Chạy riêng giao diện Combat (tùy chọn)
+10. install_dependencies.bat      : Cài đặt tự động môi trường Python cho máy mới
+11. requirements.txt              : Khai báo thư viện frida
+12. HUONG_DAN_CAI_DAT_MAY_MOI.txt : File hướng dẫn này
+==============================================================================
