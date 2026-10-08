@@ -1,0 +1,62 @@
+[
+  {
+    "id": "f03_char1",
+    "name": "F03 - Nhân vật 1",
+    "exe": "alogin-F03.exe",
+    "user": "bgdF03",
+    "pass": "111111",
+    "email": "backspace.noob@gmail.com",
+    "char_slot": 1,
+    "enabled": true
+  },
+  {
+    "id": "f03_char2",
+    "name": "F03 - Nhân vật 2",
+    "exe": "alogin-F03.exe",
+    "user": "bgdF03",
+    "pass": "111111",
+    "email": "backspace.noob@gmail.com",
+    "char_slot": 2,
+    "enabled": false
+  },
+  {
+    "id": "f02_char1",
+    "name": "F02 - Nhân vật 1",
+    "exe": "alogin-F02.exe",
+    "user": "bgdF02",
+    "pass": "111111",
+    "email": "capslock.noob@gmail.com",
+    "char_slot": 1,
+    "enabled": false
+  },
+  {
+    "id": "f04_char1",
+    "name": "F04 - Nhân vật 1",
+    "exe": "alogin-F04.exe",
+    "user": "bgdF04",
+    "pass": "111111",
+    "email": "backspace.noob@gmail.com",
+    "char_slot": 1,
+    "enabled": false
+  },
+  {
+    "id": "w03_char1",
+    "name": "W03 - Nhân vật 1",
+    "exe": "alogin-W03.exe",
+    "user": "bgdw03",
+    "pass": "111111",
+    "email": "badness1811@gmail.com",
+    "char_slot": 1,
+    "enabled": false
+  },
+  {
+    "id": "w04_char1",
+    "name": "W04 - Nhân vật 1",
+    "exe": "alogin-W04.exe",
+    "user": "bgdw04",
+    "pass": "111111",
+    "email": "reinhardvmu56819@gmail.com",
+    "char_slot": 1,
+    "enabled": false
+  }
+]

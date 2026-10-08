@@ -8,12 +8,11 @@ Bộ công cụ tự động hóa, phân tích gói tin và hỗ trợ toàn di�
 
 Dự án được phân chia thành 6 module chuyên biệt:
 
-### 1. [auto_login/](auto_login/) - Tự động đọc mã OTP từ Gmail
-- **Chức năng**: Tự động lấy mã xác thực 4 số từ email ban quản trị `GM@wloi.org` gửi đến Gmail để hỗ trợ đăng nhập game.
-- Quản lý và lưu trữ đa tài khoản Gmail (không giới hạn).
-- Giao diện trực quan Desktop (Tkinter GUI) & Script dòng lệnh (CLI).
-- Tự động sao chép mã OTP vào Clipboard (`Ctrl + V`).
-- Chế độ Realtime Auto-Wait chờ email mới đến trong 120s.
+### 1. [auto_login/](auto_login/) - Tự Động Đăng Nhập Đa Client & Lấy OTP Tự Động
+- **Quy trình 11 bước hoàn toàn tự động**: Quản lý `aProxy.exe`, khởi chạy đa client game (`alogin-*.exe`), tự động nhận diện hình ảnh OpenCV (nút Thỏa thuận, nút Tiếp tục, bảng danh sách Server), điền thông tin tài khoản, tự động chọn Nhân vật 1 hoặc 2.
+- **Tự động bắt & dán OTP**: Tự động trích xuất mã OTP 4 số từ Gmail ban quản trị `GM@wloi.org` qua IMAP, dán trực tiếp vào hộp thoại xác thực PowerShell `Verify Code` và bấm Enter.
+- **Giao diện đa client hiện đại (GUI Tkinter)**: Checkbox quản lý bật/tắt từng tài khoản, radio chọn nhân vật, nút chạy từng client hoặc đăng nhập hàng loạt, log trực tiếp và dừng khẩn cấp.
+- **Công cụ độc lập**: Bao gồm cả GUI tra cứu OTP Gmail thủ công (`app_gui.py`) và module dòng lệnh (`get_otp.py`).
 
 ### 2. [party_combat/](party_combat/) - Auto Tổ Đội & Tự Động Chiến Đấu (2-trong-1)
 - **Giao diện hợp nhất 2-trong-1** chạy trên cùng 1 tiến trình Python tối ưu tài nguyên (`run_party_auto_combat.bat`).
